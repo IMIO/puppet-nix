@@ -8,7 +8,7 @@ fixtures:
       ref: 7.0.2
     stdlib:
       repo: puppetlabs/stdlib
-      ref: 8.2.0
+      ref: 9.6.0
   repositories:
     puppet_agent: 'https://github.com/puppetlabs/puppetlabs-puppet_agent.git'
     provision: 'https://github.com/puppetlabs/provision.git'
